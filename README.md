@@ -20,6 +20,7 @@ I'm an aspiring Android and Web Developer who enjoys building modern and user-fr
 - FrigeMate – AI-powered smart fridge management prototype
 
 📫 Connect with Me
+
 LinkedIn:www.linkedin.com/in/raksha-shetty-aa398332b 
 
 GitHub: https://github.com/Raksha451
